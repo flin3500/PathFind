@@ -8,3 +8,5 @@ Pathfinding is to use algorithms to find the minimum path from the start node to
 ## BFS
 
 ## DFS
+
+## Dijkstra
